@@ -7,5 +7,5 @@ Link to the event: https://www.meetup.com/helsinki-haskell-users-group/events/28
 
 ## Code
 
-The code from the 3rd part of the presentation (applying GDP to JWTs), can be
+The code from the 3rd part of the presentation (applying GDP to JWTs) can be
 found [here](https://github.com/skyvier/gdp-jwt-authorization).
